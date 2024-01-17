@@ -1,0 +1,5 @@
+e:\dev\local\exercism\csharp\matrix\obj\Debug\net7.0\Matrix.csproj.AssemblyReference.cache
+e:\dev\local\exercism\csharp\matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+e:\dev\local\exercism\csharp\matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+e:\dev\local\exercism\csharp\matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+e:\dev\local\exercism\csharp\matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache

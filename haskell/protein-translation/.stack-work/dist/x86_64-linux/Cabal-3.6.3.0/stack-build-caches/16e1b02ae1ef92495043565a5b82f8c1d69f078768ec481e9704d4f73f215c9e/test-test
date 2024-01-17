@@ -1,0 +1,14 @@
+/home/default/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /mnt/data/dev/local/exercism/haskell/protein-translation/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_protein_translation.hs
+: hash: 0de43cd9f5382fc955e61972ea32fa8b66d069681278874e93f8cb53835f990e
+? /mnt/data/dev/local/exercism/haskell/protein-translation/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: b97032c8858a8b0a57be75fd702afe8e936474cce75115a067c63b3cf7a9d136
+/mnt/data/dev/local/exercism/haskell/protein-translation/package.yaml:
+  hash: a1d89752dfa94ed2882c89a4ea00fa4d96978b99efb996ecccd3418f2c9a30a4
+/mnt/data/dev/local/exercism/haskell/protein-translation/protein-translation.cabal:
+  hash: bad343265839c7e37bf107432233910a77caeb7f48bfee3a963d2a373a8b2253
+/mnt/data/dev/local/exercism/haskell/protein-translation/test/Tests.hs:
+  hash: 69fb75ab33e6d295331b38a2bd826ae2695d90744a316d03ecf2763fb647864d
+/usr/include/stdc-predef.h:
+  hash: d6bcc58441a423bbb3a52171fcd3b84d8b36e332a55221a1c3e6e899bc43ccb3
