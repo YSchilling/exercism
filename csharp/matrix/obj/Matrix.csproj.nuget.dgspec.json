@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "e:\\dev\\local\\exercism\\csharp\\matrix\\Matrix.csproj": {}
+    "D:\\dev\\github\\exercism\\csharp\\matrix\\Matrix.csproj": {}
   },
   "projects": {
-    "e:\\dev\\local\\exercism\\csharp\\matrix\\Matrix.csproj": {
+    "D:\\dev\\github\\exercism\\csharp\\matrix\\Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\dev\\local\\exercism\\csharp\\matrix\\Matrix.csproj",
+        "projectUniqueName": "D:\\dev\\github\\exercism\\csharp\\matrix\\Matrix.csproj",
         "projectName": "Matrix",
-        "projectPath": "e:\\dev\\local\\exercism\\csharp\\matrix\\Matrix.csproj",
-        "packagesPath": "C:\\Users\\Yorick\\.nuget\\packages\\",
-        "outputPath": "e:\\dev\\local\\exercism\\csharp\\matrix\\obj\\",
+        "projectPath": "D:\\dev\\github\\exercism\\csharp\\matrix\\Matrix.csproj",
+        "packagesPath": "C:\\Users\\yorick\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\github\\exercism\\csharp\\matrix\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Yorick\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yorick\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -75,15 +74,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.12, 7.0.12]"
+              "version": "[7.0.20, 7.0.20]"
             }
           ],
           "frameworkReferences": {
@@ -91,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
